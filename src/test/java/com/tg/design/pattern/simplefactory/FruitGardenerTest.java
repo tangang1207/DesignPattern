@@ -16,6 +16,8 @@ public class FruitGardenerTest {
     public void testFruite() throws BadFruitException {
         Fruit apple = FruitGardener.factory("apple");
         apple.grow();
+        Fruit strawberry = FruitGardener.factory("strawberry");
+        strawberry.grow();
 
     }
 }
