@@ -1,4 +1,4 @@
-package com.tg.design.pattern.factory.simplefactory;
+package com.tg.design.pattern.factory;
 
 /**
  * 简单工厂模式

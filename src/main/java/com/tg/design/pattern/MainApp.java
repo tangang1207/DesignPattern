@@ -1,6 +1,6 @@
 package com.tg.design.pattern;
 
-import com.tg.design.pattern.factory.simplefactory.Fruit;
+import com.tg.design.pattern.factory.Fruit;
 import com.tg.design.pattern.factory.simplefactory.FruitGardener;
 
 /**

@@ -1,5 +1,9 @@
 package com.tg.design.pattern.factory.simplefactory;
 
+import com.tg.design.pattern.factory.Apple;
+import com.tg.design.pattern.factory.Fruit;
+import com.tg.design.pattern.factory.Grape;
+import com.tg.design.pattern.factory.Strawberry;
 import com.tg.design.pattern.factory.simplefactory.exception.BadFruitException;
 
 /**

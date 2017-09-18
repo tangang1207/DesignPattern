@@ -1,6 +1,6 @@
 package com.tg.design.pattern.simplefactory;
 
-import com.tg.design.pattern.factory.simplefactory.Fruit;
+import com.tg.design.pattern.factory.Fruit;
 import com.tg.design.pattern.factory.simplefactory.FruitGardener;
 import com.tg.design.pattern.factory.simplefactory.exception.BadFruitException;
 import org.junit.Test;
